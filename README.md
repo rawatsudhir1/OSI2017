@@ -8,7 +8,7 @@ This page contains HOLs for the participant of OSI 2017, Bangalore, INDIA. Depen
 4. Artifical Intelligence:- AI
 
 
-##Proctors
+## Proctors
 - **Sudhir Rawat**
 
   **Twitter :- rawatsudhir**
@@ -17,12 +17,12 @@ This page contains HOLs for the participant of OSI 2017, Bangalore, INDIA. Depen
   
 - **Reenu**
   
-  **Twitter :- **
+  **Twitter :-**
   
-  **Email :- **
+  **Email :-**
   
 - **Bindukaladeepan Chinnasamy**
   
   **Twitter :- ThisIsBindu**
   
-  **Email :- **
+  **Email :-**
