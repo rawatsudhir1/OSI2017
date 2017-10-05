@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 This page contains HOLs for the participant of OSI 2017, Bangalore, INDIA. Depending on the HOLs you are focusing on please open the folder.
 
@@ -10,13 +10,19 @@ This page contains HOLs for the participant of OSI 2017, Bangalore, INDIA. Depen
 
 ##Proctors
 - **Sudhir Rawat**
+
   **Twitter :- rawatsudhir**
+
   **Email :- sudhiraw@microsoft.com**
   
-- **Reenu **
-  ** Twitter :- **
+- **Reenu**
+  
+  **Twitter :- **
+  
   **Email :- **
   
 - **Bindukaladeepan Chinnasamy**
+  
   **Twitter :- ThisIsBindu**
+  
   **Email :- **
