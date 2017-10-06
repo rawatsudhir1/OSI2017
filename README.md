@@ -11,7 +11,7 @@ This page contains HOLs for the participant of OSI 2017, Bangalore, INDIA. Depen
 ## Proctors
 - **Sudhir Rawat**
 
-  **Twitter :- rawatsudhir**
+  **Twitter :- @rawatsudhir**
 
   **Email :- sudhiraw@microsoft.com**
   
@@ -25,6 +25,6 @@ This page contains HOLs for the participant of OSI 2017, Bangalore, INDIA. Depen
   
 - **Bindukaladeepan Chinnasamy**
   
-  **Twitter :- ThisIsBindu**
+  **Twitter :- @ThisIsBindu**
   
-  **Email :-**
+  **Email :-bichinna@microsoft.com**
