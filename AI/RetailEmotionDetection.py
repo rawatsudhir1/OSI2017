@@ -74,7 +74,7 @@ try:
     conn.close()
 
 # Let's analyze developer experience. Provide accessKey for Text Analytics API Key 
-    testvar= raw_input ("Tell me how is your experience at #OSI2017 in one line?  I will detect your emotions :- ")
+    testvar= raw_input ("Tell me how is your experience at #OSI2017 in one line?  I will detect your sentiment :- ")
 
     uri = 'westus.api.cognitive.microsoft.com'
     path = '/text/analytics/v2.0/sentiment'
